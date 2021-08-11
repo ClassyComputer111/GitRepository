@@ -1,2 +1,2 @@
-#### Just for explanation of git commands and a short story made with their uses, Click the link below to see what is this
+#### Made a short story using Git commands, Click the link below to see the story
 https://classycomputer111.github.io/GitRepository/
